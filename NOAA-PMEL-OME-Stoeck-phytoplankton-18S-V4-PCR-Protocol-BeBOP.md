@@ -2,7 +2,7 @@
 
 ----------
 
-# Protocol Template
+# NOAA PMEL OME Stoeck phytoplankton 18S V4 PCR Protocol
 
 
 ### Quick Links:

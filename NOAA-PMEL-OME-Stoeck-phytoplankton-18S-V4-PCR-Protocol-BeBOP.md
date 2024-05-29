@@ -71,7 +71,7 @@ See [MIOP_definition.md](https://github.com/BeBOP-OBON/0_protocol_collection_tem
 
 This protocol is for amplifying the Small subunit ribosomal ribonucleic acid (SSU rRNA) 18S v4 gene in eukaryotes. The primers (forward: 18S_V4F/18s v4 V4F-TAReuk454FWD1, reverse: 18s v4 R/ 18s v4 V4RB-TAReukREV3) were first presented in [Stoeck et al. 2010](https://doi.org/10.1111/j.1365-294X.2009.04480.x) (forward) and [Balzano et al. 2015](https://doi.org/10.3354/ame01740) (reverse). The target amplicon size is 270 base pairs.
 
-This primer set targets eukaryotic organisms (e.g., dinoflagellates, diatoms, and haptophytes). Important note, this primer also amplifies non-target organisms including single-celled phytoplankton, zooplankton, and other metazoans.
+This primer set targets primarily single-celled eukaryotic organisms (e.g., phytoplankton, dinoflagellates, diatoms, and haptophytes). Important note, this primer also amplifies non-target organisms including zooplankton and other metazoans.
 
 The protocol presented here is intended as the first PCR of a two-step PCR next generation sequencing library preparation using Illumina Nextera Unique Dual Indices. Our written protocol does not include the second PCR step in which unique library-specific barcodes are attached to each round 1 PCR product.  [NOAA-PMEL-OME-NGS-Library-Preparation-Protocol pending]
 
@@ -222,7 +222,7 @@ This table breaks down the mixture per plate and per reaction. When running full
 
 **Positive Control**
 
-A positive control is used in every PCR run to verify success of the PCR reaction. In place of template DNA, 2 μL of positive control diluted to 10^3 copies/µL is used. One well per plate is alotted for the positive control. The positive control used for 18S V4 is the freshwater Antarctic diatom species *Luticola ventricosa*. The reference mitogenome used to develop the positive control sequence can be found on GenBank: [Accession KY863469.1](https://www.ncbi.nlm.nih.gov/nuccore/KY863469.1).
+A positive control is used in every PCR run to verify success of the PCR reaction. In place of template DNA, 2 μL of positive control diluted to 10^3 copies/µL is used. One well per plate is alotted for the positive control. The positive control used for 18S V4 is the freshwater Antarctic diatom species *Luticola ventricosa*. The reference nuclear sequence used to develop the positive control sequence can be found on GenBank: [Accession KY863469.1](https://www.ncbi.nlm.nih.gov/nuccore/KY863469.1).
 
 
 |Positive Control Sequence|

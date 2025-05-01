@@ -55,7 +55,7 @@ amplificationReactionVolume: 25
 pcr_dna_vol: 2.0
 pcr_rep: 1.0
 nucl_acid_amp: https://doi.org/10.5281/zenodo.11398119
-pcr_cond: initial denaturation:95_1;normal_cycling;denaturation:95_0.17;annealing:56_0.17;elongation:72_0.5;30
+pcr_cond: initial denaturation:95_1;normal_cycling;denaturation:95_0.25;annealing:56_0.25;elongation:72_0.5;30
 annealingTemp: 56
 pcr_cycles: 30
 pcr_analysis_software: missing":" not provided

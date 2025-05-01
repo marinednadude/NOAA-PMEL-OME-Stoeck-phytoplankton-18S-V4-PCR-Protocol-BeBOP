@@ -161,7 +161,7 @@ This protocol was chosen because it has been widely and historically used by the
 
 This amplification protocol is accessible to most molecular biology labs.
 
-## Spatial Coverage and Environment(s) of Relevance
+### Spatial Coverage and Environment(s) of Relevance
 
 This protocol has been used to amplify extracted DNA from thousands of filtered sea water samples taken from coastal stations off the western coast of North America in the Northeastern Pacific Ocean, Bering Sea and Arctic Ocean (primarily off California, Oregon, Washington, and Alaska). Samples collected range in depth from surface ocean (epipelagic biome) to just off bottom (benthic biome) at varying distances from shore (coastal to off-shelf). 
 

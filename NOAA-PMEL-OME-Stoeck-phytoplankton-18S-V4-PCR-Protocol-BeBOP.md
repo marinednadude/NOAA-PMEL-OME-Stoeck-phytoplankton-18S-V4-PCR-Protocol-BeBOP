@@ -18,6 +18,9 @@ language: en
 issued: '2025-05-01'
 audience: 'scientists'
 publisher: 'NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies'
+hasVersion: 1
+license: CC0 1.0 Universal
+maturity level: mature
 
 # FAIRe terms
 pcr_0_1: 1

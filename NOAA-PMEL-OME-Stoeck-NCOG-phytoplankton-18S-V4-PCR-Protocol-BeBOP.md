@@ -158,8 +158,8 @@ This protocol is for amplifying the Small subunit ribosomal ribonucleic acid (SS
 
 | Assay Name | Forward Primer Name | Forward Primer Sequence | Reverse Primer Name | Reverse Primer Sequence | Forward Primer Citation | Reverse Primer Citation|
 | ------------- | ------------- | ------------- |-------------| -------------| ------------- | -------------|
+| **`Stoeck_NCOG-phytoplankton_18S_V4`**| **18S V4 V4F-TAReuk454FWD1**| **CCAGCASCYGCGGTAATTCC** |**18S_V4NCOG**| **ACTTTCGTTCTTGATYR**| **https://doi.org/10.1111/j.1365-294X.2009.04480.x** | **https://dx.doi.org/10.17504/protocols.io.bmuck6sw**|
 | `Stoeck_Balzano-phytoplankton_18S_V4` | 18S V4 V4F-TAReuk454FWD1 |CCAGCASCYGCGGTAATTCC |18S_V4RB| ACTTTCGTTCTTGATYRR| https://doi.org/10.1111/j.1365-294X.2009.04480.x | https://doi.org/10.3354/ame01740|
-| `Stoeck_NCOG-phytoplankton_18S_V4`| 18S V4 V4F-TAReuk454FWD1| CCAGCASCYGCGGTAATTCC |18S_V4NCOG| ACTTTCGTTCTTGATYR| https://doi.org/10.1111/j.1365-294X.2009.04480.x | https://doi.org/10.1038/s41467-022-30139-4|
 | `Stoeck_PR2_phytoplankton_18S_V4` | 18S V4 V4F-TAReuk454FWD1 |CCAGCASCYGCGGTAATTCC |18S V4R_Zig| ACTTTCGTTCTTGATYRATGA| https://doi.org/10.1111/j.1365-294X.2009.04480.x | https://doi.org/10.1093/femsec/fiw200|
 | `Stoeck_phytoplankton_18S_V4` | 18S V4 V4F-TAReuk454FWD1 | CCAGCASCYGCGGTAATTCC |18s V4 V4R-TAReukREV3| ACTTTCGTTCTTGATYRA| https://doi.org/10.1111/j.1365-294X.2009.04480.x | https://doi.org/10.1111/j.1365-294X.2009.04480.x|
 

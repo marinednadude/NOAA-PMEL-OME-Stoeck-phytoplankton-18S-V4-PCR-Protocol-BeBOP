@@ -66,7 +66,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 
 ---
 
-# NOAA PMEL OME Stoeck phytoplankton 18S V4 PCR Protocol
+# NOAA PMEL OME Stoeck NCOG phytoplankton 18S V4 PCR Protocol
 
 ## PROTOCOL INFORMATION
 

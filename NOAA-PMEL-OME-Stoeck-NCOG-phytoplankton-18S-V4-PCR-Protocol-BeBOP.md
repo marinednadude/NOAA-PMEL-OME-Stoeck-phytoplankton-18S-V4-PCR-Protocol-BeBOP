@@ -27,7 +27,7 @@ pcr_0_1: 1
 inhibition_check_0_1: not applicable
 inhibition_check: not applicable
 thermocycler: Applied Biosystems Veriti 96-well thermal cycler
-assay_name: ssu18sv4_stoeck
+assay_name: ssu18sv4_stoeck_NCOG
 assay_validation: The assay has been validated through mutli-step in-silico, in-vitro, and in-situ validations. In addition to repeat analysis with alternate assays and intra/inter species tests. See BeBOP for citations.
 targetTaxonomicAssay: "18S rRNA gene sequencing targeting the V4 region using primers 18s v4 V4F-TAReuk454FWD1 and 18s v4 V4RNCOG-TAReukREV3"
 targetTaxonomicScope: single-celled eukaryotic organisms

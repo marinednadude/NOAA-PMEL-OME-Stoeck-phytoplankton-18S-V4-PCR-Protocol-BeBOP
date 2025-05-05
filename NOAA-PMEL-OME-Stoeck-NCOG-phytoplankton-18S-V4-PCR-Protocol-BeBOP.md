@@ -154,7 +154,16 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 
 ### Summary
 
-This protocol is for amplifying the Small subunit ribosomal ribonucleic acid (SSU rRNA) 18S v4 gene in eukaryotes. The primers (forward: 18S_V4F/18s v4 V4F-TAReuk454FWD1, reverse: 18s v4 R/ 18s v4 V4RNCOG-TAReukREV3) were first presented in [Stoeck et al. 2010](https://doi.org/10.1111/j.1365-294X.2009.04480.x) (forward) and [James et al. 2022](https://doi.org/10.1038/s41467-022-30139-4) (reverse). The target amplicon size is 270 base pairs.
+This protocol is for amplifying the Small subunit ribosomal ribonucleic acid (SSU rRNA) 18S v4 gene in eukaryotes. The primers (forward: 18S_V4F/18s v4 V4F-TAReuk454FWD1, reverse: 18s v4 R/ 18s v4 V4RNCOG-TAReukREV3) were first presented in [Stoeck et al. 2010](https://doi.org/10.1111/j.1365-294X.2009.04480.x) (forward) and [James et al. 2022](https://doi.org/10.1038/s41467-022-30139-4) (reverse). We note that there are 4 primers that use similar, but different reverse sequences:
+
+| Assay Name | Forward Primer Name | Forward Primer Sequence | Reverse Primer Name | Reverse Primer Sequence | Forward Primer Citation | Reverse Primer Citation|
+| ------------- | ------------- | ------------- |-------------| -------------| ------------- | -------------|
+| `Stoeck_Balzano-phytoplankton_18S_V4` | 18S V4 V4F-TAReuk454FWD1 |CCAGCASCYGCGGTAATTCC |18S_V4RB| ACTTTCGTTCTTGATYRR| https://doi.org/10.1111/j.1365-294X.2009.04480.x | https://doi.org/10.3354/ame01740|
+| `Stoeck_NCOG-phytoplankton_18S_V4`| 18S V4 V4F-TAReuk454FWD1| CCAGCASCYGCGGTAATTCC |18S_V4NCOG| ACTTTCGTTCTTGATYR| https://doi.org/10.1111/j.1365-294X.2009.04480.x | https://doi.org/10.1038/s41467-022-30139-4|
+| `Stoeck_PR2_phytoplankton_18S_V4` | 18S V4 V4F-TAReuk454FWD1 |CCAGCASCYGCGGTAATTCC |18S V4R_Zig| ACTTTCGTTCTTGATYRATGA| https://doi.org/10.1111/j.1365-294X.2009.04480.x | https://doi.org/10.1093/femsec/fiw200|
+| `Stoeck_phytoplankton_18S_V4` | 18S V4 V4F-TAReuk454FWD1 | CCAGCASCYGCGGTAATTCC |18s V4 V4R-TAReukREV3| ACTTTCGTTCTTGATYRA| https://doi.org/10.1111/j.1365-294X.2009.04480.x | https://doi.org/10.1111/j.1365-294X.2009.04480.x|
+
+The target amplicon size is 270 base pairs.
 
 This primer set targets primarily single-celled eukaryotic organisms (e.g., phytoplankton, dinoflagellates, diatoms, and haptophytes). Important note, this primer also amplifies non-target organisms including zooplankton and other metazoans.
 
@@ -162,7 +171,7 @@ The protocol presented here is intended as the first PCR of a two-step PCR next 
 
 ### Method Description and Rationale
 
-This protocol was chosen because it has been widely and historically used by the NOAA-CalCOFI Ocean Genomics (NCOG), a leader in the field of eDNA research and an important partner in the West Coast Ocean Biomolecular Observing Network (WC-OBON), to generate marine eDNA time series. Our protocol uses the same primers, polymerase, and thermocycling conditions as NCOG. We intentionally chose this protocol to promote standardization of ocean biomolecular observations and easily facilitate integration of PMEL OME eDNA data with NCOG eDNA time series.
+This protocol was chosen because it has been widely and historically used by the NOAA-CalCOFI Ocean Genomics (NCOG), a leader in the field of eDNA research and an important partner in the West Coast Ocean Biomolecular Observing Network (WC-OBON), to generate marine eDNA time series. Our protocol uses the same primers, polymerase, and thermocycling conditions as NCOG. We intentionally chose this protocol to promote standardization of ocean biomolecular observations and easily facilitate integration of PMEL OME eDNA data with NCOG eDNA time series. We note that this assay is similar to many other widely used protocols for the Tara Oceans Project, Protist Ribosomal Reference (PR2), and other marine phytoplankton programs.
 
 This amplification protocol is accessible to most molecular biology labs.
 

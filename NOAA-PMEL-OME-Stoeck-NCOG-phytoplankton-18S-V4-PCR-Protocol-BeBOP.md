@@ -15,7 +15,7 @@ skills_required: 'sterile technique, pipetting skills, and standard molecular te
 time_required: 135
 personnel_required: 1
 language: en
-issued: '2025-05-29'
+issued: '2025-06-10'
 audience: 'scientists'
 publisher: 'NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies'
 hasVersion: 1
@@ -104,7 +104,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
-| NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBOP | Pending | 0.0 | yyyy-mm-dd   | Internal  |
+| NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBOP  | https://github.com/HanWeinrich/NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Gel-Electrophoresis-Protocol-BeBOP.md | 1.0.0 | 2025-06-04 | Internal  |
 | Amplicon Library Preparation | https://www.protocols.io/view/amplicon-library-preparation-bp2l6b4j5gqe/v1 | V1 | 2020-10-04 | External |
 | 18S-V4 rRNA amplification from sorted cells (low-concentration DNA) for NGS Illumina sequencing (Metabarcoding) | https://dx.doi.org/10.17504/protocols.io.81wgb71k1vpk/v1 | V1 | 2022-5-09 | External |
 
@@ -119,6 +119,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 | 1.0.0 | 2024-02-01 | Initial release |
 | 1.1.0 | 2025-05-01 | Addition of FAIR eDNA terms in YAML frontmatter and formatting edits |
 | 1.1.1 | 2025-05-29 | Minor acronym and content revisions  |
+| 1.2.0 | 2025-06-10 | Adding Gel Electrophoresis protocol, new acronym, and updated reaction mixture concentration |
 
 ### Acronyms and Abbreviations
 
@@ -139,6 +140,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 |PCR| Polymerase chain reaction |
 |PMEL	|Pacific Marine Environmental Laboratory|
 |PPE    | Personal protective equipment |
+|UV| Ultraviolet|
 |UW| University of Washington
 |WC-OBON|West Coast Ocean Biomolecular Observing Network|
 
@@ -286,7 +288,7 @@ For a 96-well Plate:
 
 | Reagent |Volume (μL) per plate| Volume (μL) per reaction | Intial concentration| Final concentration|
 | ----- | ----- | ----- |----- |-----|
-| Azura TruFi 5X reaction buffer |520| 5 | 100%| 20%|
+| Azura TruFi 5X reaction buffer |520| 5 | 500%| 100%|
 | Azura TruFi DNA polymerase |26|0.25 |100% |1% |
 | Forward Primer |104| 1|10 μM |0.4 μM |
 | Reverse Primer |104| 1|10 μM |0.4 μM |

@@ -335,7 +335,6 @@ This table breaks down the mixture per plate and per reaction. When running full
 
 A positive control is used in every PCR run to verify the success of the PCR reaction. In place of template DNA, 2 μL of positive control diluted to 10^3 copies/µL is used. One well per plate is allotted for the positive control. The positive control used for 18S V4 is the freshwater Antarctic diatom species *Luticola ventricosa*. The reference nuclear sequence used to develop the positive control sequence can be found on GenBank: [Accession KY863469.1](https://www.ncbi.nlm.nih.gov/nuccore/KY863469.1).
 
-
 |Positive Control Sequence|
 |--------------------------|
 |ATTGGAGGGCAAGTCTGGTGCCAGCAGCCGCGGTAATTCCAGCTCCAATAGCGTATATTAAAGTTGTTGCAGTTAAAAAGCTCGTAGTTGAATCTATGACGCTGTGGCACGGCAACTGTGCAGCATTGCAAAATGCTGTCGTTGCTTGTCACCTTGTCATTTTTGGTCAAACCTTGCGTGACATTGAGTTGTGGCGCAAGGATGTTGGCCATCTTTTACTGTGAGGAAATTAGAGTGTTCAAAGCAGGCAGTATTGCCAGTCAAGTGAATATGTTAGCATGGAATAATATGATACGATTTTGTTTCAATTTTATTGGTTTGTGTTGCAAAATAATGATTGATAGGGACAATTGGGGGTATTTGTATTCCAGAGTCAGAGGTGAAATTCTTGGATTTTTGGAAGACAAGCTACTGCGAAAGCATCTACCAGGGATGTTTTCTTTAATCAAGAACGAAAGTTAGGGGATCGAAGATGATTA|
@@ -360,6 +359,14 @@ Nuclease-free water is used as a no-template control (NTC) when setting up each 
 **Issue 4**: Band observed for either the field blank or the extraction blank.
 
 **Solution**: The product should be sent for sequencing to determine the severity of contamination.
+
+**Issue 5**: Low volume post-PCR
+
+**Solution**: If using strip-caps, ensure they are tightly fitting on wells. Any gap in the lid will allow for some volume to evaporate during the PCR process on the thermal cycler. If using PCR plate seals, spin down the plate after taking it off the thermal cycler to ensure all condensation is drawn back into the well.
+
+**Issue 6**: Weak Amplification
+
+**Solution**: If there are weak amplification bands on the gel, ensure the master mix and DNA are being fully mixed. You can also increase the concentration of primers or tweak the PCR process on the thermal cycler (increasing # of cycles of PCR or optimizing the annealing temperature).
 
 ## REFERENCES
 

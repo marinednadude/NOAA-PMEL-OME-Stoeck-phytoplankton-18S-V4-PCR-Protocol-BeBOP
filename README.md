@@ -1,6 +1,6 @@
 # NOAA-PMEL-OME-Stoeck-NCOG-phytoplankton-18S-V4-PCR-Protocol-BeBOP
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11398120.svg)](https://doi.org/10.5281/zenodo.11398120)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17611944.svg)](https://doi.org/10.5281/zenodo.17611944)
 
 See [NOAA-PMEL-OME-Stoeck-NCOG-phytoplankton-18S-V4-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-Stoeck-phytoplankton-18S-V4-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Stoeck-NCOG-phytoplankton-18S-V4-PCR-Protocol-BeBOP.md) for detailed protocol.  
 
